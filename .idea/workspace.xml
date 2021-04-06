@@ -4,6 +4,10 @@
     <list default="true" id="55d588b8-49c6-46c7-89b4-66069c84cfe2" name="Default Changelist" comment="" />
     <list id="3f22c735-793a-41f3-b506-cb29da074da2" name="add  gitignore文件" comment="" />
     <list id="a0f86394-4f41-4a68-97a6-f2c04819aaf9" name="构建型模式" comment="" />
+    <list id="2784fdef-4b92-46f6-88bb-ce49184ba336" name="结构型模式" comment="" />
+    <list id="14c6bd27-5a38-4fc8-a48a-129f61df2688" name="访问者模式Visitor" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <list id="5b408baa-4c81-4781-af15-ee285ab86676" name="面向对象6大设计原则" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,8 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
@@ -31,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="722">
-                <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+              <first_editor relative-caret-position="551">
+                <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -321,7 +324,7 @@
     <option name="totallyTimeSpent" value="25710000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="-1" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257371" />
@@ -758,8 +761,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="722">
-            <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <first_editor relative-caret-position="551">
+            <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
