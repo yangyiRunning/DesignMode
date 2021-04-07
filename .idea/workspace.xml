@@ -5,7 +5,8 @@
     <list id="3f22c735-793a-41f3-b506-cb29da074da2" name="add  gitignore文件" comment="" />
     <list id="a0f86394-4f41-4a68-97a6-f2c04819aaf9" name="构建型模式" comment="" />
     <list id="2784fdef-4b92-46f6-88bb-ce49184ba336" name="结构型模式" comment="" />
-    <list id="14c6bd27-5a38-4fc8-a48a-129f61df2688" name="访问者模式Visitor" comment="">
+    <list id="14c6bd27-5a38-4fc8-a48a-129f61df2688" name="访问者模式Visitor" comment="" />
+    <list id="a373c54f-5ccf-4ae8-9942-1a0c38632adc" name="迭代器模式Iterator" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="5b408baa-4c81-4781-af15-ee285ab86676" name="面向对象6大设计原则" comment="" />
@@ -34,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="551">
-                <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <first_editor relative-caret-position="532">
+                <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
@@ -761,8 +762,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="551">
-            <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <first_editor relative-caret-position="532">
+            <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
