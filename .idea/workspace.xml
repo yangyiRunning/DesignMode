@@ -5,6 +5,7 @@
     <list id="3f22c735-793a-41f3-b506-cb29da074da2" name="add  gitignore文件" comment="" />
     <list id="aa1d7b2a-3078-44d5-83f8-dfc830ce2c5d" name="备忘录模式Memento" comment="" />
     <list id="a0f86394-4f41-4a68-97a6-f2c04819aaf9" name="构建型模式" comment="" />
+    <list id="2c3dce91-a2cc-49da-9079-2ddcd387710c" name="状态模式State" comment="" />
     <list id="2784fdef-4b92-46f6-88bb-ce49184ba336" name="结构型模式" comment="" />
     <list id="57611100-98c8-4667-b1fd-f926a82daf79" name="解释器模式Interpreter" comment="" />
     <list id="14c6bd27-5a38-4fc8-a48a-129f61df2688" name="访问者模式Visitor" comment="" />
@@ -35,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="193">
-                <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <first_editor relative-caret-position="296">
+                <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               </first_editor>
               <second_editor />
             </state>
@@ -299,7 +300,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257371" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -735,8 +735,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="193">
-            <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <first_editor relative-caret-position="296">
+            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           </first_editor>
           <second_editor />
         </state>
